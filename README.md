@@ -1,6 +1,8 @@
 hangout-slack-import
 ====================
 
+Port of https://github.com/Karumi/hangout-slack-import (Python) to PHP.
+
 Script that help you import your google hangout chat history to Slack
 ```
 usage: hangout-to-csv-slack.py [-h] -i <Hangouts.json> -o <hangouts.csv> -cid
